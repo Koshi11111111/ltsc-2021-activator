@@ -10,7 +10,7 @@ fltmc 1>nul 2>nul || (
 )
 cls
 echo Activating...
-cscript /nologo %windir%\system32\slmgr.vbs /ipk QPM6N-7J2WJ-P88HH-P3YRH-YY74H
+cscript /nologo %windir%\system32\slmgr.vbs /ipk KBN8V-HFGQ4-MGXVD-347P6-PDQGT
 cls
 echo Activating...
 pushd "%~dp0bin\"
